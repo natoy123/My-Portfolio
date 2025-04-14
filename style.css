@@ -500,13 +500,13 @@ span {
     }
 }
 
-@media (max-width: 365px) {
+@media (max-width: 370px) {
     .home-img img {
-        width: 90vh;
+        width: 50vh;
     }
 
     .about img {
-        width: 90vh;
+        width: 50vh;
     }
     
     .footer {
@@ -520,7 +520,7 @@ span {
 @media (max-width: 350px) {
     .home-img img,
     .about img {
-        width: 50vh;
+        width: 45vh;
     }
     }
 
